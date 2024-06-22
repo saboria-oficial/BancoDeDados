@@ -1,0 +1,9 @@
+---CRIAÇÃO DA TABELA 'FAQ'
+
+CREATE TABLE FAQ (
+    ID_FAQ		INTEGER IDENTITY PRIMARY KEY,
+    Perguntas	VARCHAR(500),
+    Respostas	VARCHAR(1000)
+);
+
+
