@@ -20,7 +20,7 @@ Além disso, o sistema deve permitir a gestão de pagamentos, que podem ser real
 É ainda esperado informatizar a gestão de localizações, permitindo que clientes encontrem restaurantes próximos e registrem avaliações e interações. 
 A partir disso, espera-se que o sistema gere relatórios detalhados sobre interações, preferências e avaliações dos clientes, facilitando a tomada de decisões gerenciais.
 
-![Captura de tela 2024-06-24 194113].(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/75bfebf9-d273-47cd-b1d0-1aa17d3801f2)
+(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/75bfebf9-d273-47cd-b1d0-1aa17d3801f2)
 
 
 
@@ -32,7 +32,7 @@ Dessa forma os clientes podem ter um relacionamento mais íntimo com seus estabe
 Conseguem adicionar o horário de funcionamento e responder perguntas diretas feitas por nossos usuários.
 
 
-![Captura de tela 2024-06-24 194229](![Captura de tela 2024-06-24 194229](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/1e23104f-652d-4593-9a83-62eb7d6f0d45)
+(![Captura de tela 2024-06-24 194229](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/1e23104f-652d-4593-9a83-62eb7d6f0d45)
 
 
    ### 🟡Parte 3 - Alimentando o Banco de Dados
@@ -51,13 +51,13 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    - Endereços, todas as propriedades e particularidades de cada tipo de perfil.
    - Informações sobre cardápio e informações detalhadas do mode de preparo e ingredientes.
 
-     ![Captura de tela 2024-06-24 193603](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8d0229d3-a644-47e9-8773-d2383b56d3bf)
+    (https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8d0229d3-a644-47e9-8773-d2383b56d3bf)
 
    ### 🟡Parte 4 - Alterando o banco de dados
 
  A plataforma de localização precisa ser alterada diversas vezes. Tanto restaurantes como clientes podem fazer alterações em suas páginas. Atulização de restrição ou adição de uma nova é necessário para manter a segurança da plataforma e na vida dos clientes. Crie alterações na página.
 
-![Captura de tela 2024-06-26 180955](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/d56167a0-a48c-4657-8260-f6e24a0c6a8c)
+(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/d56167a0-a48c-4657-8260-f6e24a0c6a8c)
 
    ### 🟡Parte 5 Consultas 
 
@@ -66,7 +66,7 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    - Dados registrados no cadastro de pessoa jurídica:
 
 
-![Captura de tela 2024-06-26 182353](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8f91f53a-b526-4368-9cad-3854f0cb2c4d)
+(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8f91f53a-b526-4368-9cad-3854f0cb2c4d)
 
 
      
@@ -74,13 +74,12 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    - Dados registrados na tabela de pessoa física:
    
 
-![Captura de tela 2024-06-26 182359](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/e71824c4-68fc-4f2c-844c-40f95e1e5641)
+(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/e71824c4-68fc-4f2c-844c-40f95e1e5641)
 
 
      
 
    - Dados inseridos na tabela Cliente:
 
-
-![Captura de tela 2024-06-26 182407](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/ec7ca3ad-d2b1-403f-8320-a1fe8aee6299)
+(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/ec7ca3ad-d2b1-403f-8320-a1fe8aee6299)
 
