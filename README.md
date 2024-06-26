@@ -55,7 +55,7 @@ Criação de tabelas e propriedades com as seguintes finalidades:
 
    ### 🟡Parte 4 - Alterando o banco de dados
 
-     A plataforma de localização precisa ser alterada diversas vezes. Tanto restaurantes como clientes podem fazer alterações em suas páginas. Atulização de restrição ou adição de uma nova é necessário para manter a segurança da plataforma e na vida dos clientes. Crie alterações na página.
+ A plataforma de localização precisa ser alterada diversas vezes. Tanto restaurantes como clientes podem fazer alterações em suas páginas. Atulização de restrição ou adição de uma nova é necessário para manter a segurança da plataforma e na vida dos clientes. Crie alterações na página.
 
 ![Captura de tela 2024-06-26 180955](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/d56167a0-a48c-4657-8260-f6e24a0c6a8c)
 
