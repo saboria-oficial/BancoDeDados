@@ -20,8 +20,8 @@ Além disso, o sistema deve permitir a gestão de pagamentos, que podem ser real
 É ainda esperado informatizar a gestão de localizações, permitindo que clientes encontrem restaurantes próximos e registrem avaliações e interações. 
 A partir disso, espera-se que o sistema gere relatórios detalhados sobre interações, preferências e avaliações dos clientes, facilitando a tomada de decisões gerenciais.
 
-![Captura de tela 2024-06-24 194113](![Captura de tela 2024-06-24 194113](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/75bfebf9-d273-47cd-b1d0-1aa17d3801f2)
-)
+![Captura de tela 2024-06-24 194113](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/75bfebf9-d273-47cd-b1d0-1aa17d3801f2)
+
 
 
    ### 🟡Parte 2 - Diagrama Entidade Relacionamento
