@@ -52,7 +52,7 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    - Endereços, todas as propriedades e particularidades de cada tipo de perfil.
    - Informações sobre cardápio e informações detalhadas do mode de preparo e ingredientes.
 
-    (https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8d0229d3-a644-47e9-8773-d2383b56d3bf)
+    !(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8d0229d3-a644-47e9-8773-d2383b56d3bf)
 
    ### 🟡Parte 4 - Alterando o banco de dados
 
