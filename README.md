@@ -58,7 +58,8 @@ Criação de tabelas e propriedades com as seguintes finalidades:
 
  A plataforma de localização precisa ser alterada diversas vezes. Tanto restaurantes como clientes podem fazer alterações em suas páginas. Atulização de restrição ou adição de uma nova é necessário para manter a segurança da plataforma e na vida dos clientes. Crie alterações na página.
 
-(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/d56167a0-a48c-4657-8260-f6e24a0c6a8c)
+![Captura de tela 2024-06-26 180955](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/cffe6017-ce9c-4b45-9bae-7d0d05c99490)
+
 
    ### 🟡Parte 5 Consultas 
 
@@ -67,7 +68,8 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    - Dados registrados no cadastro de pessoa jurídica:
 
 
-(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8f91f53a-b526-4368-9cad-3854f0cb2c4d)
+![Captura de tela 2024-06-26 182353](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/554fc6f5-bf9e-4b50-8608-f815b5e57440)
+
 
 
      
@@ -75,12 +77,14 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    - Dados registrados na tabela de pessoa física:
    
 
-(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/e71824c4-68fc-4f2c-844c-40f95e1e5641)
+![Captura de tela 2024-06-26 182359](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/50bd6618-ad26-4139-ae82-80974f8d9f14)
+
 
 
      
 
    - Dados inseridos na tabela Cliente:
 
-(https://github.com/saboria-oficial/BancoDeDados/assets/167265660/ec7ca3ad-d2b1-403f-8320-a1fe8aee6299)
+![Captura de tela 2024-06-26 182407](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/16109cce-f707-441e-8ffd-6e51de756e86)
+
 
