@@ -57,7 +57,7 @@ Criação de tabelas e propriedades com as seguintes finalidades:
 
      A plataforma de localização precisa ser alterada diversas vezes. Tanto restaurantes como clientes podem fazer alterações em suas páginas. Atulização de restrição ou adição de uma nova é necessário para manter a segurança da plataforma e na vida dos clientes. Crie alterações na página.
 
-     ![Captura de tela 2024-06-26 180955](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/d56167a0-a48c-4657-8260-f6e24a0c6a8c)
+![Captura de tela 2024-06-26 180955](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/d56167a0-a48c-4657-8260-f6e24a0c6a8c)
 
    ### 🟡Parte 5 Consultas 
 
@@ -66,8 +66,12 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    - Dados registrados no cadastro de pessoa jurídica:
      select * from PessoaJuridica
 
+     
+
    - Dados registrados na tabela de pessoa física:
       select * from PessoaFisica
+
+     
 
    - Dados inseridos na tabela Cliente:
      select * from Cliente
