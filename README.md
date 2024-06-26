@@ -64,14 +64,23 @@ Criação de tabelas e propriedades com as seguintes finalidades:
    Crie um script e nele inclua consultas que retornem:
 
    - Dados registrados no cadastro de pessoa jurídica:
-     select * from PessoaJuridica
+
+
+![Captura de tela 2024-06-26 182353](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/8f91f53a-b526-4368-9cad-3854f0cb2c4d)
+
 
      
 
    - Dados registrados na tabela de pessoa física:
-      select * from PessoaFisica
+   
+
+![Captura de tela 2024-06-26 182359](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/e71824c4-68fc-4f2c-844c-40f95e1e5641)
+
 
      
 
    - Dados inseridos na tabela Cliente:
-     select * from Cliente
+
+
+![Captura de tela 2024-06-26 182407](https://github.com/saboria-oficial/BancoDeDados/assets/167265660/ec7ca3ad-d2b1-403f-8320-a1fe8aee6299)
+
