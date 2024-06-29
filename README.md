@@ -1,4 +1,4 @@
-# Banco-de-Dados
+# Banco de Dados da Saboria
 Documentação detalhada do desenvolvimento do Banco de dados da plataforma Saboria, usando SQL SERVER.
 
 # Criando o Banco de Dados
